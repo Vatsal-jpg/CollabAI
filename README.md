@@ -1,0 +1,1 @@
+**COLLAB-AI** is a modern, full-stack collaborative coding platform built with the MERN stack and enhanced by real-time features and AI-powered assistance. The platform enables multiple users to work together on coding projects, manage files, and communicate seamlessly—all within a secure, scalable environment.
